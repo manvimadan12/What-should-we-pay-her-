@@ -19,7 +19,8 @@ or click Download ZIP in right panel of repository and extract it.
 
 # Steps to run the notebook
 Open Jupyter Notebook to view the following:
-* 
+* Predict salary using SVM regression - Support Vector Machines for regression analysis
+* Predict salary using SVM regression
 
 # Limitations
 An ML algorithm for such a small dataset can be an overkill. Basic statistical measures should suffice. However, for the educational purposes, it isn't a bad example. 
