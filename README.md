@@ -7,3 +7,12 @@ This repository contains the implementation of various regression algorithms to 
 ### Install the required libraries through command line
 
 `pip3 intsall -r requirements.txt`
+
+# Installation
+Clone this repository:
+git clone https://github.com/durgeshsamariya/Covid19India.git
+or click Download ZIP in right panel of repository and extract it.
+
+# Steps to run the notebook
+Open Jupyter Notebook in following sequence:
+*
