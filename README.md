@@ -3,7 +3,9 @@ This repository contains the implementation of various regression algorithms to 
 
 # Dataset
 The dataset contains following features:
-
+* Position - This is the job title for which the employee is being hired (Text)
+* Level - This is some internal band kind of metric to a company defining various levels of job titles (Int)
+* Salary - This represents the salary (Whole numbers)
 
 # Requirements
 [Python](https://www.python.org/downloads/)
