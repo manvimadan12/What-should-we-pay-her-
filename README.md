@@ -17,7 +17,7 @@ The dataset contains following features:
 # Installation
 Clone this repository:
 git clone https://github.com/manvimadan12/What-should-we-pay-her-.git
-or click Download ZIP in right panel of repository and extract it.
+or click Download ZIP in right panel of repository and extract the code
 
 # Steps to run the notebook
 Open Jupyter Notebook to view the following:
