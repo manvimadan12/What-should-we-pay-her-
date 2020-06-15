@@ -1,5 +1,5 @@
 # What-should-we-pay-her-
-This repository contains the implementation of various regression algorithms to calculate that the upcoming employee should receive based on her experience and the role she is being offered. This project was for purpose of practice only, I would not recommend the use of any ML/AI algorithm to be used for determining the salary of an employee because these algorithms can have bias in the dataset itself. The intention behind the project is just to familiarise myself with the various regression algorthms.
+This repository contains the implementation of various regression algorithms to calculate that the upcoming employee should receive based on her experience and the role she is being offered. This project was for purpose of practice only, I would not recommend the use of any ML/AI algorithm to be used for determining the salary of an employee because these algorithms can have bias in the dataset itself. The intention behind the project is just to familiarise myself and the users of the repository, with the various regression algorthms.
 
 # Requirements
 [Python](https://www.python.org/downloads/)
