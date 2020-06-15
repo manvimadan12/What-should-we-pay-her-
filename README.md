@@ -16,7 +16,7 @@ The dataset contains following features:
 
 # Installation
 Clone this repository:
-git clone https://github.com/durgeshsamariya/Covid19India.git
+git clone https://github.com/manvimadan12/What-should-we-pay-her-.git
 or click Download ZIP in right panel of repository and extract it.
 
 # Steps to run the notebook
