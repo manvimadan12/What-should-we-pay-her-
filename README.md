@@ -25,5 +25,7 @@ Open Jupyter Notebook to view the following:
 * Predict salary using Random Forest regression - Random Forest for regression analysis
 * Predict salary using Decision tree regression - Decision Trees for regression analysis
 
+# Results
+
 # Limitations
 An ML algorithm for such a small dataset can be an overkill. Basic statistical measures should suffice. However, for the educational purposes, it isn't a bad example. 
