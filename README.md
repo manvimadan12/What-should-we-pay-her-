@@ -26,6 +26,9 @@ Open Jupyter Notebook to view the following:
 * Predict salary using Decision tree regression - Decision Trees for regression analysis
 
 # Results
+![Results from polynomial regression with high resolution and smoother curve](https://github.com/manvimadan12/What-should-we-pay-her-/blob/master/polunomial_regression_result.png)
+
+![Results from polynomial regression](https://github.com/manvimadan12/What-should-we-pay-her-/blob/master/polunomisla_regression_smooth.png)
 
 # Limitations
 An ML algorithm for such a small dataset can be an overkill. Basic statistical measures should suffice. However, for the educational purposes, it isn't a bad example. 
