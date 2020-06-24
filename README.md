@@ -26,12 +26,16 @@ Open Jupyter Notebook to view the following:
 * Predict salary using Decision tree regression - Decision Trees for regression analysis
 
 # Results
+* Results from polynomial regression
 ![Results from polynomial regression](https://github.com/manvimadan12/What-should-we-pay-her-/blob/master/polunomial_regression_result.png)
 
+* Results from polynomial regression with high resolution and smoother curve
 ![Results from polynomial regression with high resolution and smoother curve](https://github.com/manvimadan12/What-should-we-pay-her-/blob/master/polunomisla_regression_smooth.png)
 
+* Results from support vector regression
 ![Results from support vector regression](https://github.com/manvimadan12/What-should-we-pay-her-/blob/master/support%20vector%20regression.png)
 
+* Results with support vector regression with high resolution and smoother curve
 ![Results with support vector regression with high resolution and smoother curve](https://github.com/manvimadan12/What-should-we-pay-her-/blob/master/support%20vector%20regression%20smoother%20curve%20and%20higher%20resolution.png)
 
 # Limitations
