@@ -32,5 +32,7 @@ Open Jupyter Notebook to view the following:
 
 ![Results from support vector regression](https://github.com/manvimadan12/What-should-we-pay-her-/blob/master/support%20vector%20regression.png)
 
+![Results with support vector regression with high resolution and smoother curve](https://github.com/manvimadan12/What-should-we-pay-her-/blob/master/support%20vector%20regression%20smoother%20curve%20and%20higher%20resolution.png)
+
 # Limitations
 An ML algorithm for such a small dataset can be an overkill. Basic statistical measures should suffice. However, for the educational purposes, it isn't a bad example. 
